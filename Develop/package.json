@@ -1,0 +1,23 @@
+{
+  "name": "unit10hw",
+  "version": "1.0.0",
+  "description": "OOP and testing for week 10 homework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "keywords": []
+}
